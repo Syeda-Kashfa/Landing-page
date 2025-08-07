@@ -5,9 +5,6 @@
 *{
     font-family: inter;
 }
-.txt{
-    width: 450px;
-}
 .gradienT{
     background: linear-gradient( to right, rgba(82, 189, 169, 0.52), rgba(255, 214, 214, 0.572),rgba(89, 176, 143, 0.636));
     opacity: 90%;
@@ -16,7 +13,4 @@
     width: 50px;
     height: 50px;
     
-}
-.crd{
-    border: none;
 }
